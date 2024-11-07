@@ -1,0 +1,14 @@
+{
+  "name": "project_pbp",
+  "version": "1.0.0",
+  "description": "tugas-tugas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
